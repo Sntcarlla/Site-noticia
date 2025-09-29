@@ -57,6 +57,3 @@ Para ver o site localmente, basta seguir estes passos:
   * **LinkedIn:** https://www.linkedin.com/in/carlasantossv/
 
 -----
-
-Espero que este rascunho ajude\! Você pode preencher os espaços em branco e adicionar mais detalhes sobre recursos específicos ou desafios que você superou no CSS. **Gostaria de adicionar alguma seção específica, como "Desafios Encontrados" ou "Próximos Passos"?**# Site-noticia
-Site de noticias criado em conjunto no curso de front-end
