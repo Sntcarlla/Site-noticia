@@ -1,14 +1,6 @@
-Olá\! Claro, posso criar um rascunho de um **README** para o seu site de notícias de filmes feito com **HTML e CSS**.
 
-Este README é projetado para ser informativo e direto, seguindo as melhores práticas para projetos de desenvolvimento web.
 
------
-
-# 🎬 Movie News Hub: Seu Portal de Notícias de Cinema
-
-## Visão Geral
-
-O **Movie News Hub** é um site de notícias e artigos dedicado exclusivamente ao mundo do cinema, cobrindo lançamentos, críticas, notícias de bastidores e entrevistas. Este projeto é uma demonstração de habilidades front-end, focada em uma experiência de usuário limpa e responsiva.
+O **Portal de Filmes e SErie** é um site de notícias e artigos dedicado exclusivamente ao mundo do cinema, cobrindo lançamentos, críticas, notícias de bastidores e entrevistas. Este projeto é uma demonstração de habilidades front-end, focada em uma experiência de usuário limpa e responsiva.
 
 ## Tecnologias Utilizadas
 
