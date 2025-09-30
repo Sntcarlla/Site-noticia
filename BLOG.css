@@ -35,13 +35,13 @@ margin-top: 20px;
 }
 
 body{
-    background-color:#ddd
+    background-color:#89acf3d5
 
 }
 main{
      width: 900px;
     margin: auto;
-    background-color: white;
+    background-color:  rgba(77, 81, 190, 0.733);
     text-align: center;
     padding: 30px;
     margin-top: 1px;
@@ -53,7 +53,7 @@ main{
 
 footer{
     background-color: rgb(15, 5, 106);
-    color: aliceblue;
+    color:  rgb(166, 204, 238);
     text-align: center;
     padding: 20px 0;
     font-size: 20px;
@@ -77,7 +77,7 @@ margin-bottom: 20px;
 }
 
 .noticia-principal{
-    background-color: beige;
+    background-color: rgb(164, 192, 230);
     padding: 30px 20px;
     border-radius: 10px; 
     -webkit-box-shadow: 0px 4px 15px 1px rgba(0,0,0,0.64); 
@@ -97,7 +97,7 @@ article img {
 }
 article {
     width: 250px;
-    background-color: #ddd;
+    background-color: #85a5f6;
     padding: 20px 15px;
     border-radius:10px ;
   
