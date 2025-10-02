@@ -161,13 +161,52 @@ article h3{
 
  
 }
+
+  @media (max-width: 600px) {
+
+    header nav {
+        display: none;
+
+    }
+
+    header h1{
+        font-size: 25px;
+        text-align: left;
+    }
+
+    header{
+        padding: 20px 30px;
+    }
+
+    .header-mobile {
+        display: flex;
+        justify-content: space-between;
+        
+    }
+    .header-mobile img {
+        width: 30px;
+    }
+    .header-mobile img :hover{
+        cursor: pointer;
+
+
+    }
+
+    .header-mobile img clic
+     }
 @media (max-width: 500px) 
 {
     main{
         width: 75vw;
     }
 
-     }
+    footer{
+        padding: 20px 15px;
+        font-size: 18px;
 
-     
+    }
+     }
+   
+
+
 
