@@ -1,0 +1,36 @@
+.sessaco form h2{
+    margin-bottom: 20px;
+}
+.sessaco form input {
+    border-radius: 10px;
+    border: 0.5px solid black;
+    margin: 5px 0px;
+
+    
+}
+.sessaco form{
+    display: flex;
+    flex-direction: column;
+    gap: 7.5px;
+
+}
+.sessaco  form{
+    text-align: left;
+}
+.sessaco form form label{
+    margin-right: 15px;
+}
+.margem-label{
+    margin-right: 15px;
+}
+.sessaco form{
+    width: 300px;
+    margin: auto;
+}
+.sessaco form button{
+    background-color: aquamarine;
+    border: none;
+    padding: 5px;
+    color: blue;
+    border-radius: 10px;
+}
